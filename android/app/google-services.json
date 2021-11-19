@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137648526712",
+    "project_id": "ttum-barkod",
+    "storage_bucket": "ttum-barkod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137648526712:android:33b7b843fe2c0ce94a248d",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137648526712-i8b7g4cfkp11qeto95ophjujdtc42c6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled4",
+            "certificatpubspec.yamle_hash": "192efe5f901b11cacc5371a90bf707b5534d1a97"
+          }
+        },
+        {
+          "client_id": "137648526712-c5kdsbi3eblbcn32e1kpo9and877lmdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIfywsW2N8q6wJjcmuCZISJZTtiuP_FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137648526712-c5kdsbi3eblbcn32e1kpo9and877lmdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
